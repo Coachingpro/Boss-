@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Rizzu",
-    "PREFIX": "/",
+    "BOTNAME": "ram india",
+    "PREFIX": "+",
     "ADMINBOT": [
-        "100040426712109"
+        "100063472930531"
     ],
     "NDH": [
-        "100037743553265"
+        "100063472930531"
     ],
     "DATABASE": {
         "sqlite": {
